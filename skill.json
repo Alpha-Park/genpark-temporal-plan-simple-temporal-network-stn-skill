@@ -1,0 +1,15 @@
+{
+  "name": "genpark-temporal-plan-simple-temporal-network-stn-skill",
+  "version": "1.0.0",
+  "description": "Simple Temporal Network (STN) constraint solver checking temporal consistency and deadline bounds.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "stn",
+    "simple-temporal-network",
+    "temporal-planning",
+    "floyd-warshall",
+    "deadline-propagation"
+  ]
+}
